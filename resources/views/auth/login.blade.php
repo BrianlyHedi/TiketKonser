@@ -10,7 +10,7 @@
             <div class="p-5">
               <div class="text-center">
                 <h1 class="h5 text-gray-900 mb-4">Selamat Datang!</h1>
-                <h3 class="h6 text-gray-900 mb-4">Pemesanan Tiket Konser X</h3>
+                <h3 class="h6 text-gray-900 mb-4">Pemesanan Tiket Agen X</h3>
               </div>
               <form method="POST" action="{{ route('login') }}" class="user">
               @csrf
